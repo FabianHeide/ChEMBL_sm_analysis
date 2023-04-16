@@ -1,0 +1,11 @@
+Parameter,K-W Statistic,p,alpha,Interpretation
+Ring Count,261.0192164952489,2.706001222667778e-56,0.05,Different distribution (reject H0)
+Rotatable Bonds,62.60999796745589,1.627237981384984e-13,0.05,Different distribution (reject H0)
+Aromatic Rings,425.7391483210651,5.880942826377184e-92,0.05,Different distribution (reject H0)
+Heavy Atom Count,211.31216791807284,1.5156150343037593e-45,0.05,Different distribution (reject H0)
+TPSA,44.238260657262664,1.3431573943904432e-09,0.05,Different distribution (reject H0)
+H Acceptors,129.25284504414827,7.835799542389231e-28,0.05,Different distribution (reject H0)
+H Donors,14.526977778802703,0.0022689268028962158,0.05,Different distribution (reject H0)
+MolMR,181.07043642779985,5.179610125699394e-39,0.05,Different distribution (reject H0)
+LogP,203.49060556549946,7.428607211672148e-44,0.05,Different distribution (reject H0)
+MW,149.04176176023157,4.241034770869181e-32,0.05,Different distribution (reject H0)
